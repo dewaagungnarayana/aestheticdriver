@@ -2,9 +2,8 @@
 
 body
 {
-   background-image: url("Background.jpg");
-   margin:auto;
-	
+   background-image: url("Background.jpg"); 
+   margin: auto;
 }
 
 #container
@@ -209,8 +208,6 @@ input[type=submit]{
 	text-transform: uppercase;
 	background-color: #f1f1f1;
 	border: none;
-	font-weight: bold;
-	font-family: "Century Gothic";
 	height: 45px;
 	float: right;
 }
@@ -220,7 +217,7 @@ input[type=submit]{
     margin:10px auto;
     max-width: 400px;
     padding: 20px 12px 10px 20px;
-    font: 13px "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    color: white;
 }
 .form-style-1 li 
 {
@@ -234,7 +231,6 @@ input[type=submit]{
     margin:0 0 3px 0;
     padding:0px;
     display:block;
-    font-weight: bold;
 }
 .form-style-1 input[type=text], 
 .form-style-1 input[type=date],

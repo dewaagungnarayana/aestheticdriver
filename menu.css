@@ -2,7 +2,7 @@
 
 body
 {
-   background: url(background.jpg); 
+   background-image: url(background.jpg); 
    color:#FFF;
    margin:auto;
 }

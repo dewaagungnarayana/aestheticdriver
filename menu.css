@@ -2,9 +2,9 @@
 
 body
 {
-   background-image: url("Background.jpg"); 
-   color:#FFF;
-   margin:auto;
+   background-image: url("Background.jpg");
+   background-size: cover;
+	
 }
 
 #container
